@@ -2,7 +2,7 @@
 
 use CodeIgniter\Config\Factories;
 use \Myth\Auth\Models\UserModel as MythUserModel;
-use App\Models\UserModeld as AppUserModel;
+use App\Models\UserModel as AppUserModel;
 
 class Home extends BaseController
 {
