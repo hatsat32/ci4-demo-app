@@ -1,7 +1,7 @@
 <?php namespace App\Controllers;
 
 use CodeIgniter\Config\Factories;
-use \Myth\Auth\Models\UserModel as MythUserModel;
+use Myth\Auth\Models\UserModel as MythUserModel;
 use App\Models\UserModel as AppUserModel;
 
 class Home extends BaseController
